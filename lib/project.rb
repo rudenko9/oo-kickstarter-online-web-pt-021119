@@ -1,4 +1,5 @@
 class Project 
-  attr_reader :
+  attr_reader :backers
+  
   
 end 
