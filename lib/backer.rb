@@ -9,7 +9,7 @@ class Backer
  def back_project(title)
    @backed_projects << title
    end
-def back_project(backer)
+def add_project(backer)
   @backers << backer
   
 end 
